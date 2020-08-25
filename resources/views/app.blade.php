@@ -26,10 +26,6 @@
         @section('portfolio')
             @include('partials.portfolio')
         @show
-        <!-- Call to action-->
-        @section('action')
-            @include('partials.action')
-        @show
         <!-- Contact-->
         @section('contact')
             @include('partials.contact')
