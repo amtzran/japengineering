@@ -6,7 +6,7 @@
         <div class="row no-gutters">
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box">
-                    <img class="img-fluid" src="{{ asset('/img/portfolio/img-portafolio-01.jpg') }}" alt="" />
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-01.jpg') }}" alt="" />
                     <div class="benefits-box-caption">
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-user-clock text-primary mb-3"></i>
@@ -17,7 +17,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box" >
-                    <img class="img-fluid" src="{{ asset('/img/portfolio/img-portafolio-02.jpg') }}" alt="" />
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-02.jpg') }}" alt="" />
                     <div class="benefits-box-caption">
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-american-sign-language-interpreting text-primary mb-3"></i>
@@ -28,7 +28,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box">
-                    <img class="img-fluid" src="{{ asset('/img/portfolio/img-portafolio-03.jpg') }}" alt="" />
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-03.jpg') }}" alt="" />
                     <div class="benefits-box-caption">
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-file-code text-primary mb-3"></i>
@@ -39,7 +39,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box" >
-                    <img class="img-fluid" src="{{ asset('/img/portfolio/img-portafolio-04.jpg') }}" alt="" />
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-04.jpg') }}" alt="" />
                     <div class="benefits-box-caption">
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-chart-line text-primary mb-3"></i>
@@ -50,7 +50,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box">
-                    <img class="img-fluid" src="{{ asset('/img/portfolio/img-portafolio-05.jpg') }}" alt="" />
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-05.jpg') }}" alt="" />
                     <div class="benefits-box-caption">
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-diagnoses text-primary mb-3"></i>
@@ -61,7 +61,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box">
-                    <img class="img-fluid" src="{{ asset('/img/portfolio/img-portafolio-06.jpg') }}" alt="" />
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-06.png') }}" alt="" />
                     <div class="benefits-box-caption p-3">
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-sort-amount-down text-primary mb-3"></i>
@@ -72,7 +72,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box">
-                    <img class="img-fluid" src="{{ asset('/img/portfolio/img-portafolio-06.jpg') }}" alt="" />
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-07.png') }}" alt="" />
                     <div class="benefits-box-caption p-3">
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-video text-primary mb-3"></i>
@@ -83,7 +83,7 @@
             </div>
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box">
-                    <img class="img-fluid" src="{{ asset('/img/portfolio/img-portafolio-06.jpg') }}" alt="" />
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-08.png') }}" alt="" />
                     <div class="benefits-box-caption p-3">
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-user-lock text-primary mb-3"></i>

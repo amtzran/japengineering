@@ -1,14 +1,14 @@
 <section class="page-section" id="contact">
-    <div class="container" data-aos="fade-up" data-aos-duration="2000">
+    <div class="container" >
         <div class="row justify-content-center">
             <div class="col-lg-8 text-center">
-                <img class="img-fluid" src="{{ asset('/img/logo-jap.png') }}" alt="" />
-                <h2 class="mt-5">¿Cómo llegar a nosotros?</h2>
-                <hr class="divider my-4" />
-                <p class="text-muted mb-5">¿Necesitas saber más? No dudes en contactarnos para ofrecerte una posible solución para tu Negocio!</p>
+                <img class="img-fluid" src="{{ asset('/img/logo-jap.png') }}" alt="" data-aos="fade-up" data-aos-duration="2000"/>
+                <h2 class="mt-5" data-aos="fade-up">¿Cómo llegar a nosotros?</h2>
+                <hr class="divider my-4" data-aos="fade-up"/>
+                <p class="text-muted mb-5" data-aos="fade-up">¿Necesitas saber más? No dudes en contactarnos para ofrecerte una posible solución para tu Negocio!</p>
             </div>
         </div>
-        <div class="row">
+        <div class="row" data-aos="fade-up">
             <div class="col-lg-4 ml-auto text-center mb-5 mb-lg-0">
                 <i class="fas fa-phone fa-3x mb-3 text-muted"></i>
                 <div>+52 (449) 123-4567</div>
