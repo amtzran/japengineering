@@ -4,7 +4,6 @@
 @section('htmlheader')
     @include('partials.htmlheader')
 @show
-
     <body id="page-top">
         <!-- Navigation-->
         @section('navbar')
@@ -22,10 +21,14 @@
         @section('services')
             @include('partials.services')
         @show
-        <!-- Portfolio-->
+         <!-- Benefits-->
+         @section('benefits')
+            @include('partials.benefits')
+        @show
+        <!-- Portfolio
         @section('portfolio')
             @include('partials.portfolio')
-        @show
+        @show -->
         <!-- Contact-->
         @section('contact')
             @include('partials.contact')
