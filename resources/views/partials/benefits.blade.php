@@ -92,6 +92,17 @@
                     </div>
                 </a>
             </div>
+            <div class="col-lg-4 col-sm-6">
+                <a class="benefits-box">
+                    <img class="img-fluid" src="{{ asset('/img/benefits/img-09.jpg') }}" alt="" />
+                    <div class="benefits-box-caption p-3">
+                        <div class="project-category text-white-50">
+                            <i class="fas fa-4x fa-user-lock text-primary mb-3"></i>
+                        </div>
+                        <div class="project-name">Obtener el máximo valor de sus datos</div>
+                    </div>
+                </a>
+            </div>
         </div>
     </div>
 </div>
