@@ -1,6 +1,6 @@
 <header class="masthead wow bounceInUp">
     <div class="container h-100">
-        <div class="row h-100 align-items-center justify-content-center text-center">
+        <div class="row h-100 align-items-center justify-content-center text-center" data-aos="fade-up">
             <div class="col-lg-10 align-self-end">
                 <h1 class="text-uppercase text-white font-weight-bold">¿Estás listo para un nuevo cambio hacia el emprendimiento?</h1>
                 <!-- <hr class="divider light my-4" /> -->

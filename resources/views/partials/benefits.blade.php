@@ -11,7 +11,7 @@
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-user-clock text-primary mb-3"></i>
                         </div>
-                        <div class="project-name">Información tiempo real</div>
+                        <div class="project-name">Información en tiempo real</div>
                     </div>
                 </a>
             </div>
@@ -55,7 +55,7 @@
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-diagnoses text-primary mb-3"></i>
                         </div>
-                        <div class="project-name">Detectección a tiempo eventos y anomalías de procesos activos</div>
+                        <div class="project-name">Detectar a tiempo eventos y anomalías en procesos activos</div>
                     </div>
                 </a>
             </div>
@@ -88,7 +88,7 @@
                         <div class="project-category text-white-50">
                             <i class="fas fa-4x fa-user-lock text-primary mb-3"></i>
                         </div>
-                        <div class="project-name">Proteccion a procesoo y Seguridad a datos</div>
+                        <div class="project-name">Protección a procesos y seguridad de los datos</div>
                     </div>
                 </a>
             </div>

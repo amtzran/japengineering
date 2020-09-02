@@ -60,6 +60,10 @@
         }
     });
 
-
+    // Icono telefono o pantalla contacto
+    if (screen.width < 600)
+        document.getElementById("phone-big").href = "tel:4491151133";
+    else
+        document.getElementById("phone-big").href = "mailto:contacto@japengineering.mx?Subject=Quiero%20saber%20acerca%20de%20un%20proyecto";
 
 })(jQuery); // End of use strict

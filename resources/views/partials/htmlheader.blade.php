@@ -5,7 +5,7 @@
     <meta name="author" content="" />
     <title>JAP - Engineering</title>
     <!-- Favicon-->
-    <link rel="icon" type="image/x-icon" href="{{ asset('/img/favicon.ico') }}" />
+    <link rel="icon" type="image/x-icon" href="{{ asset('/img/icon-jap.png') }}" />
     <!-- Font Awesome icons (free version)-->
     <script src="https://kit.fontawesome.com/9f44107ca8.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.14.0/css/all.css" integrity="sha384-HzLeBuhoNPvSl5KYnjx0BT+WB0QEEqLprO+NBkkk5gbc67FTaL7XIGa2w1L0Xbgc" crossorigin="anonymous">
