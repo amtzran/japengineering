@@ -1,4 +1,4 @@
-<div id="benefits">
+<div id="benefits" class="mt-5">
     <div class="section-title" data-aos="fade-up">
         <h2>Beneficios</h2>
     </div>

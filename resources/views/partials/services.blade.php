@@ -5,7 +5,7 @@
         </div>
         <div class="row">
             <div class="col-lg-4 col-md-12 text-center" data-aos="fade-up">
-                <div class="mt-2">
+                <div class="mt-5">
                     <i class="fas fa-4x fa-users-cog text-primary mb-3"></i>
                     <h3 class="h4 mb-2">Automatización de procesos</h3>
                     <p class="text-muted mb-0">• Manufactura</p>
@@ -24,7 +24,7 @@
                 </div>
             </div>
             <div class="col-lg-4 col-md-12 text-center" data-aos="fade-up">
-                <div class="mt-2">
+                <div class="mt-5">
                     <i class="fas fa-4x fa-laptop-code text-primary mb-3"></i>
                     <h3 class="h4 mb-2">Desarrollo de software especializado</h3>
                     <p class="text-muted mb-0">• Plataforma Web</p>
