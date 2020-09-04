@@ -1,6 +1,6 @@
 <footer class="bg-01 py-5">
     <div class="container"><div class="small text-center text-dark">Copyright © 2020 - JAP Engineering</div></div>
-    <div class="btn-float" data-aos="fade-left">
+    <div class="btn-float" data-aos="fade-up">
      <input type="checkbox" id="btn-mas">
         <div class="redes">
             <a id="phone-big" onclick="gtag('event', 'click', {'event_category': 'telefono','event_label': 'llamada'});" ><i class="icon-mas2 fa fa-phone"></i></a>    

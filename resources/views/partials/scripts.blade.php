@@ -6,5 +6,5 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 <!-- Core theme JS-->
 <script src="{{ asset('/js/scripts.js') }}"></script>
-<!-- AOS-->
-<script>AOS.init();</script>
+ <!-- Vendor JS Files -->
+<script src="{{ asset('/vendor/aos/aos.js') }}"></script>

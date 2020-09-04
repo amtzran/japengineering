@@ -2,7 +2,7 @@
     <div class="section-title" data-aos="fade-up">
         <h2>Beneficios</h2>
     </div>
-    <div class="container-fluid p-0 mb-0" data-aos="zoom-out">
+    <div class="container-fluid p-0 mb-0" data-aos="fade-up">
         <div class="row no-gutters">
             <div class="col-lg-4 col-sm-6">
                 <a class="benefits-box">

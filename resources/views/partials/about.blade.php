@@ -9,14 +9,14 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-6 col-md-12 text-center" data-aos="fade-right">
+            <div class="col-lg-6 col-md-12 text-center" data-aos="fade-up">
                 <div class="mt-5">
                     <h2 class="mt-0">Misión</h2>
                     <hr class="divider light my-4" />
                     <p class="mb-4">Ofrecer una solución integral a nuestros clientes ayudandolos a romper la gran barrera que existe en la mayoría de las organizaciones dentro de cualquier sector al momento de emprender hacia una nueva era tecnológica. </p>
                 </div>
             </div>
-            <div class="col-lg-6 col-md-12 text-center" data-aos="fade-left">
+            <div class="col-lg-6 col-md-12 text-center" data-aos="fade-up">
                 <div class="mt-5">
                     <h2 class="mt-0">Visión</h2>
                     <hr class="divider light my-4" />
@@ -25,10 +25,11 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-12 col-md-12 text-center">
-                <div class="mt-5" data-aos="flip-up">
+            <div class="col-lg-12 col-md-12 text-center" data-aos="fade-up">
+                <div class="mt-5" >
                 <a class="btn btn-light btn-xl js-scroll-trigger" href="#https://www.messenger.com/t/japengineering20/">Solicitar Cotización</a>
                 </div>
             </div>
+        </div>
     </div>
 </section>
