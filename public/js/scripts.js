@@ -82,5 +82,16 @@
     //     js.src = 'https://connect.facebook.net/es_LA/sdk/xfbml.customerchat.js';
     //     fjs.parentNode.insertBefore(js, fjs);
     // }(document, 'script', 'facebook-jssdk'));
+    function aos_init() {
+        AOS.init({
+            duration: 1000,
+            easing: "ease-in-out",
+            once: true,
+            mirror: false
+        });
+    }
+    $(window).on('load', function() {
+        aos_init();
+    });
 
 })(jQuery); // End of use strict
